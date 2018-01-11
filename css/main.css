@@ -279,7 +279,7 @@ section {
 }
 
 .navbar-right li.active a {
-  background-color: rgba(0,0,0,.2);
+  background-color: #333;
 }
 
 .navbar-brand h1 {
@@ -330,18 +330,6 @@ section {
 #services {
   padding-top: 15px;
   padding-bottom: 60px;}
-
-.service-icon {
-  border-radius: 4px;
-  color: #fff;
-  display: inline-block;
-  font-size: 36px;
-  height: 90px;
-  line-height: 90px;
-  width: 90px;  
-  -webkit-transition: background-color 0.2s ease;
-  transition: background-color 0.2s ease;
-}
 
 .fancy {
     line-height: 0.5;
@@ -650,9 +638,9 @@ section {
 /*************************
 *******Features CSS*******
 **************************/
-#feature {
+#features {
     padding-top: 80px;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
 }
 .feature-section {
     padding-top: 100px;

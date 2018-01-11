@@ -27,6 +27,14 @@
 		font-size: 40px;
 		margin-top: 27px;
 	}
+
+	.price.panel-default {
+	    margin: 40px;
+	}
+	.price.featured.panel-default {
+	    margin: 40px;
+	}
+
 	.btn-signup {
 		padding: 10px 20px;
 	}
